@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.log_main{
+width:500px;
+height:auto;
+background-color:#36F;
+opacity:0.8	;
+margin-left:400px;
+margin-top:50px;
+clear:both;
+}
